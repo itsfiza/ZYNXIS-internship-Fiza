@@ -1,1 +1,0 @@
-# ZYNXIS-internship-Fiza
