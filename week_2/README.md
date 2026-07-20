@@ -107,7 +107,7 @@ This week helped me understand that data preprocessing is one of the most import
 - One-Hot Encoding
 ## Before vs After Comparison
 
-![Before vs After](images/Before_after_coparison.png)
+![Before vs After](images/Before_after_comparison.png)
 ![Before vs After](images/boxplot.png)
 
 
