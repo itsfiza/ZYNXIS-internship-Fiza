@@ -60,21 +60,19 @@ TF-IDF Vectorization
      ↓
 Logistic Regression
      ↓
-Sentiment Prediction
-🧪 Sample Input & Output
+## 🧪 Sample Input/Output Results
 
-The trained NLP pipeline was tested using new student/intern feedback.
+### Negative Feedback
 
-Example 1 — Negative Feedback
+The model was given negative internship feedback as input.
 
-Input:
+![Negative Sentiment Result](Negative feedback.png)
 
-The internship was confusing and I did not receive enough support.
+### Positive Feedback
 
-Processed Tokens:
+The model was also tested using positive internship feedback.
 
-['internship', 'confusing', 'receive', 'enough', 'support']
-
+![Positive Sentiment Result](positive feedback'.png)
 Predicted Sentiment:
 
 NEGATIVE
