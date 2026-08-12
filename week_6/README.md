@@ -59,20 +59,8 @@ Cleaned Text
 TF-IDF Vectorization
      ↓
 Logistic Regression
-     ↓
-## 🧪 Sample Input/Output Results
+     
 
-### Negative Feedback
 
-The model was given negative internship feedback as input.
-
-![Negative Sentiment Result](Negative feedback.png)
-
-### Positive Feedback
-
-The model was also tested using positive internship feedback.
-
-![Positive Sentiment Result](positive feedback'.png)
-Predicted Sentiment:
 
 NEGATIVE
